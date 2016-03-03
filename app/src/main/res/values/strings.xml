@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ClienteRest</string>
+
+    <string-array name="tipo">
+        <item>extraescolar</item>
+        <item>complementaria</item>
+        <item>excursion</item>
+    </string-array>
+
+    <string-array name="profesores">
+        <item>Pilar</item>
+        <item>Carmelo</item>
+        <item>Jaime</item>
+        <item>Modesto</item>
+    </string-array>
+</resources>
